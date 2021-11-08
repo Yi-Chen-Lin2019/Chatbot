@@ -10,12 +10,12 @@ Wells, C. G. (1981). Learning through interaction: The study of language develop
 
 ## Background
 
-* There're lots of tranining data for adult's conversations, but childeren's are not that much. With this designed for children's chatbot, we can let them play with robot easily.
+* There're lots of tranining data for adult's conversations, but childeren's are not that much. With this designed for children's chatbot, we can let children play with robot easily.
 
 
 ## How is it used?
 
-
+* While working from home, parents can use this chatbot to let it play with children. Then parent can seize the time to work.
 
 
 ## Data sources and AI methods
